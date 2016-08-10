@@ -1,0 +1,29 @@
+body{
+
+  background-color: lightblue;
+  font-family: sans-serif;
+}
+
+#header {
+  height: 90px;
+  width: 200px;
+  border: 1px solid black;
+  text-align: center;
+
+
+}
+
+#container {
+  margin-top: 200px;
+
+
+}
+
+#button {
+  font-size: 20px;
+  height: 40px;
+  width: 100px;
+  margtin-top:  75px;
+
+
+}
